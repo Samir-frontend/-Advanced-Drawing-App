@@ -14,8 +14,8 @@ An advanced drawing application built using HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 
-## 🔗 Live Demo
-(Add your GitHub Pages link here)
+## 🚀 Live Demo
+https://samir-frontend.github.io/advanced-drawing-app/
 
 ## 👨‍💻 Author
 Samir
